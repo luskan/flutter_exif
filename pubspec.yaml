@@ -5,7 +5,7 @@ repository: https://github.com/spacycoder/flutter_exif
 homepage: https://github.com/spacycoder/flutter_exif
 
 environment:
-  sdk: ">=3.0.0 <3.3.8"
+  sdk: ">=3.0.0 <=3.4.0"
   flutter: ">=1.10.0"
 
 dependencies:
